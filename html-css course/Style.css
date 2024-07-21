@@ -1,0 +1,174 @@
+
+body{
+  background-color: rgb(39, 36, 36);
+}
+
+*{
+  color: white;
+}
+p,h1{
+  font-family: Arial;
+}
+
+
+.overview-button{
+  font-family: Arial;
+  background-color: rgb(98, 93, 104);
+  height: 30px;
+  width: 85px;
+  border-radius: 18px; 
+  border: none;
+  margin-right: 8px;
+  cursor: pointer;
+
+}
+
+.cast-button{
+  background-color: rgb(98, 93, 104) ;
+  height: 30px;
+  width: 60px;
+  border-radius: 15px;
+  border: none;
+  margin-right: 8px;
+  cursor: pointer;
+  font-family: Arial;
+
+
+}
+
+.trailersandclips-button{
+  background-color: rgb(98, 93, 104) ;
+  height: 30px;
+  width: 130px;
+  border-radius: 15px;
+  border: none;
+  margin-right: 8px;
+  cursor: pointer;
+  font-family: Arial;
+
+}
+
+.releasedate-button{
+  background-color: rgb(98, 93, 104) ;
+  height: 60px;
+  width: 130px;
+  border-radius: 12px;
+  border: none;
+  margin-right: 8px;
+  cursor: pointer;
+  font-family: Arial;
+  margin-bottom: 15px;
+  text-align: left;
+}
+
+.director-button{
+  background-color: rgb(98, 93, 104) ;
+  height: 60px;
+  width: 130px;
+  border-radius: 12px;
+  border: none;
+  margin-right: 8px;
+  cursor: pointer;
+  font-family: Arial;
+  margin-bottom: 15px;
+  text-align: left;
+}
+
+.alreadywatched-button{
+  background-color: rgb(98, 93, 104) ;
+  height: 30px;
+  width: 140px;
+  border-radius: 16px;
+  border-color: rgb(190, 15, 190);
+  margin-right: 8px;
+  cursor: pointer;
+  font-family: Arial;
+  border-style: solid;
+
+}
+
+.wanttowatch-button{
+  background-color: rgb(98, 93, 104) ;
+  height: 30px;
+  width: 140px;
+  border-radius: 16px;
+  margin-right: 8px;
+  cursor: pointer;
+  font-family: Arial;
+  border-color: rgb(190, 15, 190);
+  border-style: solid;
+}
+
+.thebatmanpartii-button{
+  background-color: rgb(98, 93, 104) ;
+  height: 45px;
+  width: 130px;
+  border-radius: 12px;
+  border: none;
+  margin-right: 8px;
+  cursor: pointer;
+  font-family: Arial;
+}
+
+.supermanmanoftomorrow-button{
+  background-color: rgb(98, 93, 104) ;
+  height: 45px;
+  width: 200px;
+  border-radius: 12px;
+  border: none;
+  margin-right: 8px;
+  cursor: pointer;
+  font-family: Arial;
+}
+
+.fantasticfour-button{
+  background-color: rgb(98, 93, 104) ;
+  height: 45px;
+  width: 125px;
+  border-radius: 12px;
+  border: none;
+  margin-right: 8px;
+  cursor: pointer;
+  font-family: Arial;
+}
+
+.img1{
+  height: 100px;
+  width: 120px;
+}
+
+.img2{
+  height: 100px;
+  width: 120px;
+}
+
+.img3{
+  height: 100px;
+  width: 120px;
+}
+
+.img4{
+  height: 100px;
+  width: 120px;
+}
+
+.column{
+  float: left;
+  width: 10%;
+  padding: 2px;
+}
+
+.row::after{
+  content: "";
+  clear: both;
+  display: table;
+
+}
+
+
+
+
+
+
+
+
